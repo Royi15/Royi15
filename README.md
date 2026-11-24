@@ -20,7 +20,7 @@
 ```text
 royi@github
 -----------
-OS:         macOS / Windows / Linux 
+OS:         macOS / Windows / Linux (WSL2)
 Focus:      Computer Science & Software Engineering
 Languages:  C++, C, Python, Java, JS/TS, SQL, Bash
 Frameworks: Node.js, Express, React, FastAPI
