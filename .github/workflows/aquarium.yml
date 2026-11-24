@@ -1,0 +1,27 @@
+name: Generate Aquarium
+
+on:
+  schedule:
+    # רץ אוטומטית כל 24 שעות
+    - cron: "0 0 * * *"
+  workflow_dispatch: # מאפשר להריץ ידנית בלחיצת כפתור
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Generate Aquarium SVG
+        uses: vrzhao/github-readme-aquarium@main
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          user_name: Royi15
+
+      - name: Push Aquarium SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
