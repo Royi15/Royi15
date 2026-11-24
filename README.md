@@ -27,3 +27,13 @@ Frameworks: Node.js, Express, React, FastAPI
 Game Dev:   Godot 4 (Jolt Physics), Blender
 Tools:      Git, Docker, VS Code, Linux Networking
 Interests:  Systems, Game Design, Theoretical Physics
+```
+
+<br/>
+
+<!-- 3. Code Aquarium -->
+<div align="center">
+  <a href="https://github.com/hadoyyo/GitHub-Fish-Tank">
+    <img src="https://gh-fish-tank.vercel.app/api/generate?user=Royi15&bg=4ecdc4&frame=3a4a5a&sand=c4a574&show_legend=true&show_language_labels=true&show_bubbles=true&show_rocks=true&show_plants=true&show_plants_alt=false&show_castle=true&show_ship=false&show_chest=true&show_shell=true&show_frame=false&show_anubias=false&show_statue=false" alt="GitHub Fish Tank" />
+  </a>
+</div>
