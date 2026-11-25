@@ -6,7 +6,7 @@
 
   <!-- 1. Typing Terminal Header -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Royi+%F0%9F%91%8B;Computer+Science+Student;Building+3D+Games+in+Godot+4;Automating+things+%26+exploring+systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=520&lines=Hey%2C+I'm+Royi+%F0%9F%91%8B;Computer+Science+Student;Building+3D+Games+in+Godot+4;Automating+things+%26+exploring+systems" alt="Typing SVG" />
   </a>
 
   <br/>
